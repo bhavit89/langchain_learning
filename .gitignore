@@ -2,3 +2,7 @@ RAG/rag_docs/
 RAG/wikipedia_db/
 faang/
 .env
+MultiModalRAG/docs/dbv1
+MultiModalRAG/docs/dbv2
+MultiModalRAG/docs/chunks_export.json
+MultiModalRAG/docs/rag_results.json
